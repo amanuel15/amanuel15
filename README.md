@@ -54,6 +54,6 @@ A software engineer who is dedicated to his craft and is eager to learn new tech
 <br />
 <br />
 
-- 📫 How to reach me: amanuelgenene11@gmail.com
+📫 How to reach me: amanuelgenene11@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuel15&show_icons=true&hide=contribs,stars,prs&count_private=true&theme=dark)
