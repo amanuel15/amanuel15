@@ -55,7 +55,7 @@ A software engineer who is dedicated to his craft and is eager to learn new tech
 <br />
 <br />
 
-- 🔭 I’m currently working as a Mobile | Full-stack developer at 360ground. <br>
+- 🔭 I’m currently working as a Full-stack developer at Safaricom Ethiopia. <br>
 - 📫 How to reach me: amanuelgenene11@gmail.com <br>
 
 <br>
